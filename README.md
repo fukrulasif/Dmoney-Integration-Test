@@ -14,6 +14,7 @@
 - npm i
 - add the .env file ( On request)
 - node report.Js
+- npm test
 
 ## Documentation
 https://documenter.getpostman.com/view/35121297/2sA3QwcVh2
