@@ -21,3 +21,6 @@ https://documenter.getpostman.com/view/35121297/2sA3QwcVh2
   ## Output:
 
   ![image](https://github.com/fukrulasif/Dmoney-Integration-Test/assets/107519313/ede77e03-0f34-461b-b405-1fc4f11a39bc)
+
+  ## Bug Report
+  https://docs.google.com/spreadsheets/d/15F0Hh094niGCs4yowhlukNCvfZ0Z5TP53JK1r3aLI5s/edit?gid=364202053#gid=364202053
